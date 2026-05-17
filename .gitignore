@@ -1,0 +1,8 @@
+.venv/
+venv/
+env/
+
+system_history.csv 
+
+__pycache__/
+
